@@ -2,7 +2,7 @@
 ---
 ### Contacts
 * **Minsk, Belarus**
-* **Email:** *<dolgovtolik1@gmail.com>*
+* **Email:** *<steamrp75@gmail.com>*
 * **Telegram:** [RastaPromt75](https://t.me/rastapromt75)
 * **Discord:** *RastaPromt75#1358*
 ---
