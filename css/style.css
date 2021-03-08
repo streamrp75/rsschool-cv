@@ -71,7 +71,7 @@ html{
   box-sizing: inherit;
 }
 body{
-    background: url(../img/background.png) no-repeat top/cover ;
+    background: url(../img/background.png) no-repeat top ;
 }
 header{
     margin-bottom: 35px;
